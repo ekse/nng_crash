@@ -1,0 +1,8 @@
+[package]
+name = "nng_crash"
+version = "0.1.0"
+authors = ["Sebastien Duquette <sduquette@devolutions.net>"]
+edition = "2018"
+
+[dependencies]
+nng = {path = "nng-rs/nng"}
